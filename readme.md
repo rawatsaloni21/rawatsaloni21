@@ -2,7 +2,7 @@
 
 <!-- Animated Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shivam%20Kumar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Backend%20Developer%20|%20Problem%20Solver%20|%20Tech%20Enthusiast&descAlignY=52&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Saloni%20Kumar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Backend%20Developer%20|%20Problem%20Solver%20|%20Tech%20Enthusiast&descAlignY=52&descSize=18"/>
 </div>
 
 <!-- Typing Animation -->
@@ -12,7 +12,7 @@
 
 <!-- Profile Views & Social Badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shivamkumar&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=salonikumar&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile Views" />
   <a href="https://linkedin.com/in/shivamkumar1828" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
