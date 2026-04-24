@@ -2,12 +2,12 @@
 
 <!-- Animated Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Saloni%20Rawat&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Backend%20Developer%20|%20Problem%20Solver%20|%20Tech%20Enthusiast&descAlignY=52&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Saloni%20Rawat&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=20Problem%20Solver%20|%20Tech%20Enthusiast&descAlignY=52&descSize=18"/>
 </div>
 
 <!-- Typing Animation -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hey+there!+I'm+shivam+%F0%9F%91%8B;900%2B+LeetCode+Problems+Solved+%F0%9F%94%A5;Building+cool+stuff+with+code+%F0%9F%9A%80" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hey+there!+I'm+saloni+%F0%9F%91%8B;900%2B+LeetCode+Problems+Solved+%F0%9F%94%A5;Building+cool+stuff+with+code+%F0%9F%9A%80" alt="Typing SVG" /></a>
 </p>
 
 <!-- Profile Views & Social Badges -->
