@@ -1,4 +1,4 @@
-![MasterHead](https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif)
+![MasterHead](https://tenor.com/fLPNSPqk32f.gif)
 
 <!-- Animated Header -->
 <div align="center">
