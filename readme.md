@@ -1,4 +1,6 @@
-![MasterHead](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWt1NHptajJ5a3N0YWRuZjIycTRndW45enJsZ3QycGxodGFvNWI0MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8JOrlF7LxOq0RYGlzE/giphy.gif)
+<div align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWt1NHptajJ5a3N0YWRuZjIycTRndW45enJsZ3QycGxodGFvNWI0MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8JOrlF7LxOq0RYGlzE/giphy.gif" />
+</div>
 
 <!-- Animated Header -->
 <div align="center">
